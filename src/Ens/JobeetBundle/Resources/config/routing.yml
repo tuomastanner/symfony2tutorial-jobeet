@@ -1,0 +1,9 @@
+homepage:
+    pattern:  /
+    defaults: { _controller: EnsJobeetBundle:Job:index }
+
+# import routes from a controller directory
+blog:
+    resource: "@EnsJobeetBundle/Controller"
+    type:     annotation
+    
