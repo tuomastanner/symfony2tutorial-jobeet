@@ -11,6 +11,6 @@ bin/*
  
 # Configuration files
 app/config/parameters.ini
-nbproject/*
 *.php~
 *.lock
+/nbproject/private
