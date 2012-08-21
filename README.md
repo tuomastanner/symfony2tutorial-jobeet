@@ -8,4 +8,6 @@ I have changed all configuration from yml files to annotations. I also modified 
 
 This project will evolve as I make my way through the tutorial.
 
+Currently Lessons 9 / 14 done. (A few unit tests and functional tests)
+
 -Tuomas
